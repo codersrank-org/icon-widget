@@ -6,7 +6,8 @@ const generateIcon = require('./shared/generate-icon');
 
 module.exports = async function (context, req) {
   const name = req.params.name || req.query.name;
-  const fill = req.query.fill;
+  const bg = req.query.bg;
+  const text = req.query.text;
   if (!name) {
     // respond with empty image
     context.res = {
@@ -27,7 +28,7 @@ module.exports = async function (context, req) {
       headers: {
         'content-type': 'image/svg+xml;charset=UTF-8',
       },
-      body: generateIcon(name, fill),
+      body: generateIcon({ name, bg, text }),
     };
     return;
   }
@@ -35,8 +36,6 @@ module.exports = async function (context, req) {
     path.resolve(__dirname, `svg/${iconFileName}`),
     'utf-8',
   );
-
-  console.log(svgContent);
 
   context.res = {
     headers: {

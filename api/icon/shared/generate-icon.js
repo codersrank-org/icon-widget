@@ -1,6 +1,6 @@
 const stringToColor = require('./string-to-color');
 
-module.exports = (name = '', fill = '') => {
+module.exports = ({ name = '', bg = '', text = '' }) => {
   // prettier-ignore
   return /* html */ `
   <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
@@ -9,14 +9,14 @@ module.exports = (name = '', fill = '') => {
         font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
       }
     </style>
-    <rect width="256" height="256" fill="${fill || stringToColor(name)}" rx="24" />
+    <rect width="256" height="256" fill="${bg || stringToColor(name)}" rx="24" />
     ${name ? /* html */ `
     <text
       x="50%"
       y="50%"
       font-weight="bold"
       font-size="160"
-      fill="#fff"
+      fill="${text || '#fff'}"
       dy="0"
       text-anchor="middle"
       dominant-baseline="central"
