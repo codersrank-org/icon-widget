@@ -1,10 +1,10 @@
 {
-  "name": "cr-icons-test",
+  "name": "cr-icons",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "func start",
-    "build": "node build",
+    "build": "node scripts/build",
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {},
