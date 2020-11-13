@@ -1,0 +1,185 @@
+{
+  "angular.svg": [
+    "angular",
+    "angularjs"
+  ],
+  "bootstrap.svg": [
+    "bootstrap"
+  ],
+  "c-plusplus.svg": [
+    "c++"
+  ],
+  "c-sharp.svg": [
+    "c#"
+  ],
+  "c.svg": [
+    "c"
+  ],
+  "coffeescript.svg": [
+    "coffeescript"
+  ],
+  "css.svg": [
+    "css"
+  ],
+  "dart.svg": [
+    "dart"
+  ],
+  "django.svg": [
+    "django"
+  ],
+  "electron.svg": [
+    "electron"
+  ],
+  "enzyme.svg": [
+    "enzyme"
+  ],
+  "express.svg": [
+    "express",
+    "expressjs"
+  ],
+  "f-sharp.svg": [
+    "f#"
+  ],
+  "flutter.svg": [
+    "flutter"
+  ],
+  "framework7.svg": [
+    "framework7"
+  ],
+  "go.svg": [
+    "go",
+    "golang"
+  ],
+  "gulp.svg": [
+    "gulp"
+  ],
+  "haskell.svg": [
+    "haskell"
+  ],
+  "html.svg": [
+    "html",
+    "html5",
+    "html+razor"
+  ],
+  "ionic.svg": [
+    "ionic"
+  ],
+  "java.svg": [
+    "java"
+  ],
+  "javascript.svg": [
+    "javascript",
+    "js"
+  ],
+  "jest.svg": [
+    "jest"
+  ],
+  "json.svg": [
+    "json"
+  ],
+  "jupyter.svg": [
+    "jupyter",
+    "jupyter notebook"
+  ],
+  "kotlin.svg": [
+    "kotlin"
+  ],
+  "less.svg": [
+    "less",
+    "lessjs"
+  ],
+  "markdown.svg": [
+    "markdown",
+    "md"
+  ],
+  "materializecss.svg": [
+    "materializecss",
+    "materialize css"
+  ],
+  "meteorjs.svg": [
+    "meteorjs"
+  ],
+  "nativescript.svg": [
+    "nativescript"
+  ],
+  "nuxtjs.svg": [
+    "nuxtjs"
+  ],
+  "objective-c.svg": [
+    "objective-c",
+    "objective c"
+  ],
+  "perl.svg": [
+    "perl"
+  ],
+  "php.svg": [
+    "php"
+  ],
+  "python.svg": [
+    "python"
+  ],
+  "r-lang.svg": [
+    "r",
+    "r-lang"
+  ],
+  "reactjs.svg": [
+    "react",
+    "reactjs",
+    "jsx",
+    "react native"
+  ],
+  "redux.svg": [
+    "redux",
+    "reduxsaga",
+    "redux saga"
+  ],
+  "rollup.svg": [
+    "rollup",
+    "rollupjs"
+  ],
+  "ruby.svg": [
+    "ruby"
+  ],
+  "rust.svg": [
+    "rust"
+  ],
+  "rxjs.svg": [
+    "rxjs"
+  ],
+  "sass.svg": [
+    "sass",
+    "scss"
+  ],
+  "scala.svg": [
+    "scala"
+  ],
+  "socket-io.svg": [
+    "socket.io"
+  ],
+  "spring.svg": [
+    "spring"
+  ],
+  "stylus.svg": [
+    "stylus"
+  ],
+  "svelte.svg": [
+    "svelte"
+  ],
+  "swift.svg": [
+    "swift"
+  ],
+  "typescript.svg": [
+    "typescript"
+  ],
+  "vuejs.svg": [
+    "vue",
+    "vuejs",
+    "vuex"
+  ],
+  "webpack.svg": [
+    "webpack"
+  ],
+  "xml.svg": [
+    "xml"
+  ]
+}
