@@ -9,7 +9,7 @@
         "get",
         "post"
       ],
-      "route": "icon/{name?}"
+      "route": "{name?}"
     },
     {
       "type": "http",
