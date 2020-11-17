@@ -4,6 +4,7 @@
   "apple.svg": ["osx", "macos", "ios", "objective-c", "objective c"],
   "aws.svg": ["aws", "amazon web services"],
   "aws-lambda.svg": ["aws lambda", "lambda"],
+  "azure.svg": ["azure", "microsoft azure"],
   "bootstrap.svg": ["bootstrap"],
   "c-plusplus.svg": ["c++"],
   "c-sharp.svg": ["c#"],
