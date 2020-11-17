@@ -1,5 +1,11 @@
 [
   {
+    "filename": "android.svg",
+    "names": [
+      "android"
+    ]
+  },
+  {
     "filename": "angular.svg",
     "names": [
       "angular",
@@ -37,9 +43,21 @@
     ]
   },
   {
+    "filename": "cordova.svg",
+    "names": [
+      "cordova"
+    ]
+  },
+  {
     "filename": "css.svg",
     "names": [
       "css"
+    ]
+  },
+  {
+    "filename": "cypress.svg",
+    "names": [
+      "cypress"
     ]
   },
   {
@@ -77,6 +95,12 @@
     "filename": "f-sharp.svg",
     "names": [
       "f#"
+    ]
+  },
+  {
+    "filename": "figma.svg",
+    "names": [
+      "figma"
     ]
   },
   {
@@ -163,6 +187,12 @@
     ]
   },
   {
+    "filename": "laravel.svg",
+    "names": [
+      "laravel"
+    ]
+  },
+  {
     "filename": "less.svg",
     "names": [
       "less",
@@ -193,6 +223,13 @@
     "filename": "nativescript.svg",
     "names": [
       "nativescript"
+    ]
+  },
+  {
+    "filename": "nodejs.svg",
+    "names": [
+      "nodejs",
+      "node"
     ]
   },
   {
@@ -289,6 +326,12 @@
     ]
   },
   {
+    "filename": "sketch.svg",
+    "names": [
+      "sketch"
+    ]
+  },
+  {
     "filename": "socket-io.svg",
     "names": [
       "socket.io"
@@ -319,9 +362,22 @@
     ]
   },
   {
+    "filename": "symfony.svg",
+    "names": [
+      "symfony"
+    ]
+  },
+  {
     "filename": "typescript.svg",
     "names": [
       "typescript"
+    ]
+  },
+  {
+    "filename": "unity.svg",
+    "names": [
+      "unity",
+      "unity3d"
     ]
   },
   {
@@ -342,6 +398,12 @@
     "filename": "xml.svg",
     "names": [
       "xml"
+    ]
+  },
+  {
+    "filename": "yii.svg",
+    "names": [
+      "yii"
     ]
   }
 ]
