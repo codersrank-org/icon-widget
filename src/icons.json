@@ -1,0 +1,347 @@
+[
+  {
+    "filename": "angular.svg",
+    "names": [
+      "angular",
+      "angularjs"
+    ]
+  },
+  {
+    "filename": "bootstrap.svg",
+    "names": [
+      "bootstrap"
+    ]
+  },
+  {
+    "filename": "c-plusplus.svg",
+    "names": [
+      "c++"
+    ]
+  },
+  {
+    "filename": "c-sharp.svg",
+    "names": [
+      "c#"
+    ]
+  },
+  {
+    "filename": "c.svg",
+    "names": [
+      "c"
+    ]
+  },
+  {
+    "filename": "coffeescript.svg",
+    "names": [
+      "coffeescript"
+    ]
+  },
+  {
+    "filename": "css.svg",
+    "names": [
+      "css"
+    ]
+  },
+  {
+    "filename": "dart.svg",
+    "names": [
+      "dart"
+    ]
+  },
+  {
+    "filename": "django.svg",
+    "names": [
+      "django"
+    ]
+  },
+  {
+    "filename": "electron.svg",
+    "names": [
+      "electron"
+    ]
+  },
+  {
+    "filename": "enzyme.svg",
+    "names": [
+      "enzyme"
+    ]
+  },
+  {
+    "filename": "express.svg",
+    "names": [
+      "express",
+      "expressjs"
+    ]
+  },
+  {
+    "filename": "f-sharp.svg",
+    "names": [
+      "f#"
+    ]
+  },
+  {
+    "filename": "flutter.svg",
+    "names": [
+      "flutter"
+    ]
+  },
+  {
+    "filename": "framework7.svg",
+    "names": [
+      "framework7"
+    ]
+  },
+  {
+    "filename": "go.svg",
+    "names": [
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "filename": "gulp.svg",
+    "names": [
+      "gulp"
+    ]
+  },
+  {
+    "filename": "haskell.svg",
+    "names": [
+      "haskell"
+    ]
+  },
+  {
+    "filename": "html.svg",
+    "names": [
+      "html",
+      "html5",
+      "html+razor"
+    ]
+  },
+  {
+    "filename": "ionic.svg",
+    "names": [
+      "ionic"
+    ]
+  },
+  {
+    "filename": "java.svg",
+    "names": [
+      "java"
+    ]
+  },
+  {
+    "filename": "javascript.svg",
+    "names": [
+      "javascript",
+      "js"
+    ]
+  },
+  {
+    "filename": "jest.svg",
+    "names": [
+      "jest"
+    ]
+  },
+  {
+    "filename": "json.svg",
+    "names": [
+      "json"
+    ]
+  },
+  {
+    "filename": "jupyter.svg",
+    "names": [
+      "jupyter",
+      "jupyter notebook"
+    ]
+  },
+  {
+    "filename": "kotlin.svg",
+    "names": [
+      "kotlin"
+    ]
+  },
+  {
+    "filename": "less.svg",
+    "names": [
+      "less",
+      "lessjs"
+    ]
+  },
+  {
+    "filename": "markdown.svg",
+    "names": [
+      "markdown",
+      "md"
+    ]
+  },
+  {
+    "filename": "materializecss.svg",
+    "names": [
+      "materializecss",
+      "materialize css"
+    ]
+  },
+  {
+    "filename": "meteorjs.svg",
+    "names": [
+      "meteorjs"
+    ]
+  },
+  {
+    "filename": "nativescript.svg",
+    "names": [
+      "nativescript"
+    ]
+  },
+  {
+    "filename": "nuxtjs.svg",
+    "names": [
+      "nuxtjs"
+    ]
+  },
+  {
+    "filename": "objective-c.svg",
+    "names": [
+      "objective-c",
+      "objective c"
+    ]
+  },
+  {
+    "filename": "perl.svg",
+    "names": [
+      "perl"
+    ]
+  },
+  {
+    "filename": "php.svg",
+    "names": [
+      "php"
+    ]
+  },
+  {
+    "filename": "python.svg",
+    "names": [
+      "python"
+    ]
+  },
+  {
+    "filename": "r-lang.svg",
+    "names": [
+      "r",
+      "r-lang"
+    ]
+  },
+  {
+    "filename": "reactjs.svg",
+    "names": [
+      "react",
+      "reactjs",
+      "jsx",
+      "react native"
+    ]
+  },
+  {
+    "filename": "redux.svg",
+    "names": [
+      "redux",
+      "reduxsaga",
+      "redux saga"
+    ]
+  },
+  {
+    "filename": "rollup.svg",
+    "names": [
+      "rollup",
+      "rollupjs"
+    ]
+  },
+  {
+    "filename": "ruby.svg",
+    "names": [
+      "ruby"
+    ]
+  },
+  {
+    "filename": "rust.svg",
+    "names": [
+      "rust"
+    ]
+  },
+  {
+    "filename": "rxjs.svg",
+    "names": [
+      "rxjs"
+    ]
+  },
+  {
+    "filename": "sass.svg",
+    "names": [
+      "sass",
+      "scss"
+    ]
+  },
+  {
+    "filename": "scala.svg",
+    "names": [
+      "scala"
+    ]
+  },
+  {
+    "filename": "socket-io.svg",
+    "names": [
+      "socket.io"
+    ]
+  },
+  {
+    "filename": "spring.svg",
+    "names": [
+      "spring"
+    ]
+  },
+  {
+    "filename": "stylus.svg",
+    "names": [
+      "stylus"
+    ]
+  },
+  {
+    "filename": "svelte.svg",
+    "names": [
+      "svelte"
+    ]
+  },
+  {
+    "filename": "swift.svg",
+    "names": [
+      "swift"
+    ]
+  },
+  {
+    "filename": "typescript.svg",
+    "names": [
+      "typescript"
+    ]
+  },
+  {
+    "filename": "vuejs.svg",
+    "names": [
+      "vue",
+      "vuejs",
+      "vuex"
+    ]
+  },
+  {
+    "filename": "webpack.svg",
+    "names": [
+      "webpack"
+    ]
+  },
+  {
+    "filename": "xml.svg",
+    "names": [
+      "xml"
+    ]
+  }
+]
