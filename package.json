@@ -4,8 +4,7 @@
   "description": "",
   "scripts": {
     "start": "func start",
-    "build": "node scripts/build",
-    "test": "echo \"No tests yet...\""
+    "build": "node scripts/build-api"
   },
   "dependencies": {},
   "devDependencies": {}

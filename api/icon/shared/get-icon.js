@@ -8,7 +8,7 @@ module.exports = (name = '') => {
     const nReplaced = name.replace(/\./g, '');
     const names = icon.names;
     if (!fileName && (names.includes(n) || names.includes(nReplaced))) {
-      fileName = icon.filename;
+      fileName = icon.fileName;
       hash = icon.hash;
     }
   });

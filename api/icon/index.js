@@ -5,7 +5,7 @@ const getIcon = require('./shared/get-icon');
 const generateIcon = require('./shared/generate-icon');
 
 module.exports = async function (context, req) {
-  const name = req.params.name || req.query.name;
+  const name = decodeURIComponent(req.params.name || req.query.name);
   const bgColor = req.query['bg-color'] || req.query.bgColor;
   const textColor = req.query['text-color'] || req.query.textColor;
   if (!name) {
