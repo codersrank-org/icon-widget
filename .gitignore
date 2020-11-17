@@ -93,3 +93,6 @@ bin
 obj
 appsettings.json
 local.settings.json
+
+api/icon/svg/*.svg
+api/icon/icons.json
