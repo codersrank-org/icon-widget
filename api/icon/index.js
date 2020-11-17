@@ -6,8 +6,8 @@ const generateIcon = require('./shared/generate-icon');
 
 module.exports = async function (context, req) {
   const name = req.params.name || req.query.name;
-  const bg = req.query.bg;
-  const text = req.query.text;
+  const bgColor = req.query['bg-color'] || req.query.bgColor;
+  const textColor = req.query['text-color'] || req.query.textColor;
   if (!name) {
     // respond with empty image
     context.res = {
@@ -30,7 +30,7 @@ module.exports = async function (context, req) {
         'Cache-Control':
           'public, immutable, no-transform, s-maxage=2592000, max-age=2592000',
       },
-      body: generateIcon({ name, bg, text }),
+      body: generateIcon({ name, bgColor, textColor }),
     };
     return;
   }
