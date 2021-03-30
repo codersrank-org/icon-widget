@@ -51,6 +51,7 @@
   "mongodb.svg": ["mongodb", "mongo"],
   "mysql.svg": ["mysql"],
   "nativescript.svg": ["nativescript"],
+  "nextjs.svg": ["next", "nextjs"],
   "nginx.svg": ["nginx"],
   "nodejs.svg": ["nodejs", "node"],
   "npm.svg": ["npm", "npmjs"],
